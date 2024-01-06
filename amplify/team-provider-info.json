@@ -1,0 +1,30 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nextjs-dev-135335-authRole",
+      "UnauthRoleArn": "arn:aws:iam::454318625248:role/amplify-nextjs-dev-135335-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::454318625248:role/amplify-nextjs-dev-135335-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-nextjs-dev-135335-deployment",
+      "UnauthRoleName": "amplify-nextjs-dev-135335-unauthRole",
+      "StackName": "amplify-nextjs-dev-135335",
+      "StackId": "arn:aws:cloudformation:ap-south-1:454318625248:stack/amplify-nextjs-dev-135335/e4a02510-ac6c-11ee-afa1-02556559b6c9",
+      "AmplifyAppId": "d2kfklmpege2gx",
+      "APIGatewayAuthURL": "https://s3.amazonaws.com/amplify-nextjs-dev-135335-deployment/amplify-cfn-templates/api/APIGatewayAuthStack.json"
+    },
+    "categories": {
+      "function": {
+        "testRishabh": {
+          "deploymentBucketName": "amplify-nextjs-dev-135335-deployment",
+          "s3Key": "amplify-builds/testRishabh-684b4c394451622b304e-build.zip"
+        }
+      },
+      "auth": {
+        "nextjs": {}
+      },
+      "api": {
+        "apitest": {}
+      }
+    }
+  }
+}
